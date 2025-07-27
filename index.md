@@ -1,5 +1,18 @@
 # Schatzsuche
 
+<figure>
+  <img src="bilder/alle-bilder-uebersicht.jpeg" width="150" alt="Flaschenpost">
+  <figcaption>Bild: <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">CC0</a>
+  </figcaption>
+</figure>
+<figure>
+  <img src="bilder/erster-prompt.jpg" width="300" alt="Flaschenpost">
+  <figcaption>Bild: <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">CC0</a><br>
+  Auftakt-Prompt: "Erstelle eine Schatzkarte im Piratenstil, die vergilbt und gezeichnet ist. Darauf eine INSTRUKTION bei der ein Pirat abgebildet ist, der über ein Seil auf einen Kastanienbaum hinaufgezogen werden soll von seiner Mannschaft am Boden"
+  </figcaption>
+</figure>
+
+
 ### Material
 - [ ] Flasche für Flaschenpost
 - [ ] Optional: Zahlenschloss für Flasche
@@ -22,7 +35,10 @@
 Findet die Flaschenpost!  
 <figure>
   <img src="bilder/findet-die-flaschenpost.jpg" width="150" alt="Flaschenpost">
-  <figcaption>Bild: <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">CC0</a></figcaption>
+  <figcaption>Bild: <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">CC0</a><br>
+  Prompt: "Erstelle einen Hinweis mit illustrierter Flaschenpost im Garten
+"Findet die Flaschenpost im Garten!""
+  </figcaption>
 </figure>
 
 ### 📍 Station 1: Das Flaschenrätsel  
@@ -58,7 +74,9 @@ Dort steht:
 „Folge dem Ruf der Dohle!“  
 <figure>
   <img src="bilder/RufderDohle.jpg" width="200" alt="Ruf der Dohle">
-  <figcaption>Bild: <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">CC0</a></figcaption>
+  <figcaption>Bild: <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">CC0</a><br>
+  Prompt: "jetzt mit eine Dohle und "Folge dem Ruf der Dohle"
+  </figcaption>
 </figure>
 
 👉 Aufgabe: Ein versteckter Bluetooth-Lautsprecher spielt das wiederholende Vogel-Geräusch ***"RRRRRüüübe ab!" (mp3)***  
@@ -71,12 +89,16 @@ Am Sound-Ziel (z. B. hinterm Busch oder Sofa) finden sie neben dem Bluetooth-L
 
 <figure>
   <img src="bilder/RuebeAb.jpg" width="200" alt="RuebeAb">
-  <figcaption><a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">CC0</a></figcaption>
+  <figcaption><a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">CC0</a><br>
+  Prompt: "Erstelle ein Bild "Rübe ab!" mit der Illustration einer zerbrochenen Karotte in der der nächste Hinweis zum Vorschein kommt"
+  </figcaption>
 </figure>
 
 <figure>
   <img src="bilder/RuebeAb2.jpg" width="200" alt="RuebeAb2">
-  <figcaption><a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">CC0</a></figcaption>
+  <figcaption><a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">CC0</a><br>
+  Prompt: "jetzt die illsutration ein mohrrübe in einem rechteckigen gartenbeet in dem ebenfalls eine vierzackige Harke steckt"
+  </figcaption>
 </figure>
 
 <figure>
@@ -105,7 +127,9 @@ Olle Holzbein hat kein Holzbein mehr. Es wurde von Tante M geklaut. Bringt ihm s
 
 <figure>
   <img src="bilder/OlleHolzbein.jpg" width="200" alt="Olle Holzbein">
-  <figcaption>Bild: <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">CC0</a></figcaption>
+  <figcaption>Bild: <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">CC0</a><br>
+  Prompt: "Ein Pirat an einem Dorfbrunnen. "Fragt Olle Holzbein nach dem Schatz!" Zeichne den Pirat freundlich und mit Augenklappe und den Brunnen länglich mit einem Wassereinlauf über einen Wasserhahn von rechts
+  </figcaption>
 </figure>
 
 ### 📍 Station 6: Tante M  
@@ -113,7 +137,8 @@ Im Laden steht das Holzbein von Olle (Einfach ein Holzpfosten in einem Stiefel) 
 
 <figure>
   <img src="bilder/Tante-M.jpg" width="200" alt="Tante M">
-  <figcaption><a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">CC0</a></figcaption>
+  <figcaption><a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">CC0</a><br>
+  Prompt: "Ein Geschäft mit dem Ladenschild "Tante M" darin im Schaufenster das Holzbein von Olle"</figcaption>
 </figure>
 
 ### 📍 Station 7: Wieder bei Olle Holzbein  
@@ -140,14 +165,18 @@ Die Piraten bringen Olle sein Holzbein und bekommen den nächsten Hinweis und ei
 An der Linde finden die Kinder den nächsten Hinweis
 <figure>
   <img src="bilder/pyramide.jpg" width="200" alt="Kletterpyramide">
-  <figcaption>Bild: <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">CC0</a></figcaption>
+  <figcaption>Bild: <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">CC0</a><br>
+  Prompt: "Illustriere ein Klettergerüst in Pyramidenform und dazu den Hinweis "An der Spitze der Pyramide!"
+  </figcaption>
 </figure>
 
 ### 📍 Station 9: Die Pyramide  
 An der Spitze des Klettergerüsts findet sich der nächste Hinweis mit einer Kastanie oder Kastanienblatt:
 <figure>
   <img src="bilder/kastanienbaum.jpg" width="200" alt="Kastanienbaum">
-  <figcaption><a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">CC0</a></figcaption>
+  <figcaption><a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">CC0</a><br>
+  Prompt: "Erstelle eine Schatzkarte im piratenstil, die vergilbt und gezeichnet ist. Darauf eine INSTRUKTION bei der ein Pirat abgebildet ist, der über ein Seil auf einen Kastanienbaum hinaufgezogen werden soll von seiner Mannschaft am Boden" - (überarbeitet mit Canva)
+  </figcaption>
 </figure>
 
 
@@ -161,8 +190,14 @@ Am Baum wurde schon eine Schnur als Vorbereitung zur Top-Rope-Sicherung bereitge
 
 <figure>
   <img src="bilder/Kirchengarten.jpg" width="200" alt="Kirchgarten mit Schatz">
-  <figcaption>Bild: <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">CC0</a></figcaption>
+  <figcaption>Bild: <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">CC0</a><br>
+    Prompt: „Nun einen kirchturm der schief ist (nur das Dach des Turmes wie eine Banane gebogen und darunter ein garten
+"Im Garten der Kirche ist der Platz
+da findet ihr alle endlich den Schatz!"
+Kein X im Garten</figcaption>
 </figure>
+
+
 
 
 
