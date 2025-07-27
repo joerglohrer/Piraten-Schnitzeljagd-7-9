@@ -82,6 +82,17 @@ Dort steht:
 👉 Aufgabe: Ein versteckter Bluetooth-Lautsprecher spielt das wiederholende Vogel-Geräusch ***"RRRRRüüübe ab!" (mp3)***  
 Die Kinder folgen dem Sound.
 
+<figure>
+  <audio controls>
+    <source src="audio/ruebeab.mp3" type="audio/mpeg">
+    Dein Browser unterstützt das Audioelement nicht.
+  </audio>
+  <figcaption>
+    Ton: <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">CC0</a><br>
+    Titel: „Rübe ab!“ – Ruf der Dohle für die Schatzsuche
+  </figcaption>
+</figure>
+
 
 
 ### 📍 Station 3: Die Dohle  
@@ -98,17 +109,6 @@ Am Sound-Ziel (z. B. hinterm Busch oder Sofa) finden sie neben dem Bluetooth-L
   <img src="bilder/RuebeAb2.jpg" width="200" alt="RuebeAb2">
   <figcaption><a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">CC0</a><br>
   Prompt: "jetzt die illsutration ein mohrrübe in einem rechteckigen gartenbeet in dem ebenfalls eine vierzackige Harke steckt"
-  </figcaption>
-</figure>
-
-<figure>
-  <audio controls>
-    <source src="audio/ruebeab.mp3" type="audio/mpeg">
-    Dein Browser unterstützt das Audioelement nicht.
-  </audio>
-  <figcaption>
-    Ton: <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">CC0</a><br>
-    Titel: „Rübe ab!“ – Ruf der Dohle für die Schatzsuche
   </figcaption>
 </figure>
 
