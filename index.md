@@ -3,7 +3,7 @@
 ### Material
 - [ ] Flasche für Flaschenpost
 - [ ] Optional: Zahlenschloss für Flasche
-    - ![](https://pad.gwdg.de/uploads/da9d13f8-3153-484c-9bc7-b5ce6857b94a.png =x200)
+    - ![](bilder/zahlenschloss.jpeg =x200)
 - [ ] Bluetooth Lautsprecher
 - [ ] Foto-Ausdrucke
     - Bilder lassen sich leicht mit KI prompten mit *"Erstelle eine schatzkarte im Piratenstil im Hochkantformat, die vergilbt und gezeichnet ist. Darauf ..."*
@@ -17,7 +17,7 @@
 
 ### Auftakt
 Findet die Flaschenpost!
-![](https://pad.gwdg.de/uploads/caeed577-aeb8-43bf-97ba-eafcec9276bd.png =x200)
+![](bilder/findet-die-flaschenpost.jpg =x200)
 
 
 
@@ -40,11 +40,11 @@ Findet die Flaschenpost!
 
 >  ☠️ Wie lautet der Code, Matrose? ☠️
 
-![](https://pad.gwdg.de/uploads/a6f966ec-74d4-4f6a-9cb9-903991cbda53.png =x400)
+![](bilder/Flaschenraetsel.jpg =x400)
 
 
 
-![](https://pad.gwdg.de/uploads/5bb7960e-5dad-4c99-ae16-60dc3bad7761.png =x400)
+![](bilder/piratenklo.jpg =x400)
 
 **Lösung** (kann abgewandelt werden): 7 + 23 => 723
 
